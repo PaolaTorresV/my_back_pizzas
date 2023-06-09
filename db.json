@@ -66,7 +66,7 @@
     {
       "id": "3",
       "pizzaname": "Pizza Especial developer",
-      "price": "$45.000",
+      "price": "$48.000",
       "stars": "01",
       "size": {
         "type1": "Grande",
@@ -86,7 +86,7 @@
     {
       "id": "4",
       "pizzaname": "Pizza Hawaiana de José",
-      "price": "$45.000",
+      "price": "$35.000",
       "stars": "01",
       "size": {
         "type1": "Grande",
