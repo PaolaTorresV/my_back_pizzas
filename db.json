@@ -26,7 +26,7 @@
   "products": [
     {
       "id": "1",
-      "pizzaname": "Master CSS Pizza",
+      "pizzaname": "Master Super CSS Pizza ",
       "price": "$50.000",
       "stars": "01",
       "size": {
@@ -46,7 +46,7 @@
 
     {
       "id": "2",
-      "pizzaname": "Pizza super especial para Frontend",
+      "pizzaname": "Pizza super especial Frontend",
       "price": "$45.000",
       "stars": "01",
       "size": {
@@ -85,7 +85,7 @@
 
     {
       "id": "4",
-      "pizzaname": "Pizza Hawaiana para José",
+      "pizzaname": "Pizza Hawaiana de José",
       "price": "$45.000",
       "stars": "01",
       "size": {
