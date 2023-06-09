@@ -5,21 +5,21 @@
       "usser_name": "pao",
       "password": "1234",
       "name": "Paola",
-      "img": "https://ibb.co/bXXgV5t"
+      "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
     },
     {
       "id": "02",
       "usser_name": "jj",
       "password": "5678",
       "name": "José",
-      "img": "https://ibb.co/xLfKGr5"
+      "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
     },
     {
       "id": "03",
       "usser_name": "dap",
       "password": "5678",
       "name": "Diana",
-      "img": "https://ibb.co/PQ5019g"
+      "img": "https://i.ibb.co/M6RQPG7/avatar-diana.png"
     }
   ],
 
@@ -41,7 +41,7 @@
         "comment": "De las mejores pizzas que he probado, recomendada.",
         "name": "Marcos Toledo"
       },
-      "img": "https://ibb.co/cyht4Wq"
+      "img": "https://i.ibb.co/qDY9TH6/pizza-tomate.jpg"
     },
 
     {
@@ -61,7 +61,7 @@
         "comment": "Una pizza muy rica, me encantó, la recomiendo  y odio la pizza Hawaiana.",
         "name": "Paola Torres"
       },
-      "img": "https://ibb.co/4KzwxmC"
+      "img": "https://i.ibb.co/5GmXVMC/pizza-champi-ones.jpg"
     },
     {
       "id": "3",
@@ -80,7 +80,7 @@
         "comment": "Nada mejor que una pizza multi sabores para compartir con tus compañeros del bootcamp aunque no arreglo el código",
         "name": "Diana Pinzón"
       },
-      "img": "https://ibb.co/ZMj7Jf2"
+      "img": "https://i.ibb.co/rwjNtQd/pizza-ajo.jpg"
     },
 
     {
@@ -100,7 +100,7 @@
         "comment": "Que viva la pizza Hawaiana aunque todos la odien",
         "name": "José Sanmiguel"
       },
-      "img": "https://ibb.co/58w43ny"
+      "img": "https://i.ibb.co/NjbCqmP/pizza-hawaiana.jpg"
     }
   ],
 
