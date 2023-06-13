@@ -39,7 +39,8 @@
 
       "comments": {
         "comment": "De las mejores pizzas que he probado, recomendada.",
-        "name": "Marcos Toledo"
+        "name": "Marcos Toledo",
+        "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
       },
       "img": "https://i.ibb.co/qDY9TH6/pizza-tomate.jpg",
       "img2": "https://i.ibb.co/PxnS4J3/cuatro-carnes.jpg",
@@ -61,7 +62,8 @@
 
       "comments": {
         "comment": "Una pizza muy rica, me encantó, la recomiendo  y odio la pizza Hawaiana.",
-        "name": "Paola Torres"
+        "name": "Paola Torres",
+        "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
       },
       "img": "https://i.ibb.co/5GmXVMC/pizza-champi-ones.jpg",
       "img2": "https://i.ibb.co/KzyGtBj/pizza-casera-axion.jpg",
@@ -82,7 +84,8 @@
 
       "comments": {
         "comment": "Nada mejor que una pizza multi sabores para compartir con tus compañeros del bootcamp aunque no arreglo el código",
-        "name": "Diana Pinzón"
+        "name": "Diana Pinzón",
+        "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
       },
       "img": "https://i.ibb.co/rwjNtQd/pizza-ajo.jpg",
       "img2": "https://i.ibb.co/qpqdLrZ/otar-jgp.jpg",
@@ -112,13 +115,6 @@
     }
   ],
 
-  "cart": [
-    {
-        "id": "",
-        "pizzaname": "",
-        "price": ""
-   
-    }
-    
-  ]
+  "cart": [],
+  "purchase": []
 }
