@@ -22,7 +22,6 @@
       "img": "https://i.ibb.co/M6RQPG7/avatar-diana.png"
     }
   ],
-
   "products": [
     {
       "id": "1",
@@ -34,9 +33,7 @@
         "type2": "Mediana",
         "type3": "Personal"
       },
-
       "descriptions": "Deliciosa Pizza clásica, con orilla de pan esponjoso. Es un manjar, si estás a punto de enviar cambios a producción un viernes, necesitarás una de estas.",
-
       "comments": {
         "comment": "De las mejores pizzas que he probado, recomendada.",
         "name": "Marcos Toledo",
@@ -46,7 +43,6 @@
       "img2": "https://i.ibb.co/PxnS4J3/cuatro-carnes.jpg",
       "img3": "https://i.ibb.co/7Sjr4GF/pepperoni.jpg"
     },
-
     {
       "id": "2",
       "pizzaname": "Pizza super especial Frontend",
@@ -57,9 +53,7 @@
         "type2": "Mediana",
         "type3": "Personal"
       },
-
       "descriptions": "Delicioso Pizza para un viernes de maratón de peliculas",
-
       "comments": {
         "comment": "Una pizza muy rica, me encantó, la recomiendo  y odio la pizza Hawaiana.",
         "name": "Paola Torres",
@@ -79,9 +73,7 @@
         "type2": "Mediana",
         "type3": "Personal"
       },
-
       "descriptions": "Deliciosa pizza para disfrutar si estas estresado porque no encuentras el error en tu código",
-
       "comments": {
         "comment": "Nada mejor que una pizza multi sabores para compartir con tus compañeros del bootcamp aunque no arreglo el código",
         "name": "Diana Pinzón",
@@ -91,20 +83,17 @@
       "img2": "https://i.ibb.co/qpqdLrZ/otar-jgp.jpg",
       "img3": "https://i.ibb.co/NLTKKHX/pizasss.jpg"
     },
-
     {
       "id": "4",
       "pizzaname": "Pizza Hawaiana de José",
-      "price": "35000",
+      "price": "31000",
       "stars": "01",
       "size": {
         "type1": "Grande",
         "type2": "Mediana",
         "type3": "Personal"
       },
-
       "descriptions": "Deliciosa pizza para disfrutar si estas estresado porque no encuentras el error en tu código",
-
       "comments": {
         "comment": "Que viva la pizza Hawaiana aunque todos la odien",
         "name": "José Sanmiguel"
@@ -114,7 +103,31 @@
       "img3": "https://i.ibb.co/2vtBGxw/pizza-hawaiana-e.jpg"
     }
   ],
-
   "cart": [],
-  "purchase": []
+  "purchase": [
+    {
+      "fullName": "dfgdfg",
+      "creditCardNumber": 154135413517,
+      "expirationDate": "2023-06-22",
+      "cvv": 123,
+      "address": "fygfgyftygf",
+      "id": 1
+    },
+    {
+      "fullName": "dfgdfg",
+      "creditCardNumber": 55415216541523,
+      "expirationDate": "2023-06-27",
+      "cvv": 568,
+      "address": "ghghglh",
+      "id": 2
+    },
+    {
+      "fullName": "gfdhg",
+      "creditCardNumber": 524254,
+      "expirationDate": "2023-06-21",
+      "cvv": 548,
+      "address": "rtghugujykuyuk",
+      "id": 3
+    }
+  ]
 }
